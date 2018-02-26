@@ -39,7 +39,7 @@ public class FlyingTurf extends Sprite {
         Array<TextureAtlas.AtlasRegion> regions = new Array<TextureAtlas.AtlasRegion>(atlas.getRegions());
         animation = new Animation(0.1f ,regions, Animation.PlayMode.LOOP);
 
-        
+
         this.setPosition(pos_x,pos_y);
         world = aWorld;
         game = aGame;
