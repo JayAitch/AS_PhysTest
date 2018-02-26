@@ -1,0 +1,125 @@
+
+mob_car.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+death-car-01
+  rotate: false
+  xy: 2, 332
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-02
+  rotate: false
+  xy: 2, 266
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-03
+  rotate: false
+  xy: 174, 332
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-04
+  rotate: false
+  xy: 2, 200
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-05
+  rotate: false
+  xy: 174, 266
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-06
+  rotate: false
+  xy: 346, 332
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-07
+  rotate: false
+  xy: 2, 134
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-08
+  rotate: false
+  xy: 174, 200
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-09
+  rotate: false
+  xy: 346, 266
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-10
+  rotate: false
+  xy: 518, 332
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-11
+  rotate: false
+  xy: 2, 68
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-12
+  rotate: false
+  xy: 174, 134
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+death-car-13
+  rotate: false
+  xy: 346, 200
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+idle-car
+  rotate: false
+  xy: 174, 68
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: 1
+idle-car-02
+  rotate: false
+  xy: 518, 266
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+idle-car-03
+  rotate: false
+  xy: 690, 332
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
+idle-car-04
+  rotate: false
+  xy: 2, 2
+  size: 170, 64
+  orig: 170, 64
+  offset: 0, 0
+  index: -1
